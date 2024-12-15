@@ -1,0 +1,13 @@
+/.settings
+/Drivers
+/Debug
+/Startup
+
+.cproject
+*.project
+.mxproject
+*.cfg
+*.elf
+*.launch
+*.ioc
+*.ld
